@@ -34,6 +34,14 @@ A simple and interactive **Bash-based medical test record manager**. This script
 - **Diastole** – Normal range: `< 80 mm Hg`
 
 ---
+🛡️ Validations
+Patient ID must be a 7-digit number
+
+Date format must be YYYY-MM
+
+Status must be one of: Pending, Completed, or Reviewed
+
+Abnormal values automatically detected and displayed
 
 ## ▶️ How to Run
 
